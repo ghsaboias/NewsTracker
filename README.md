@@ -35,7 +35,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/ghsaboias/news-tracker-app.git
+   git clone https://github.com/ghsaboias/NewsTracker.git
    ```
 
 2. Navigate to the project directory:
