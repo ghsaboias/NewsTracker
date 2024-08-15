@@ -41,7 +41,7 @@ Before you begin, ensure you have the following installed:
 2. Navigate to the project directory:
 
    ```
-   cd news-tracker-app
+   cd news-tracker
    ```
 
 3. Install the dependencies:
