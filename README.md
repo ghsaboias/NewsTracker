@@ -3,6 +3,7 @@
 A React-based application for tracking and displaying news articles.
 
 ## Table of Contents
+
 - [Project Overview](#project-overview)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
@@ -25,17 +26,20 @@ The News Tracker App is a web application designed to help users stay up-to-date
 ### Prerequisites
 
 Before you begin, ensure you have the following installed:
+
 - Node.js (v14.0.0 or later)
 - npm (v6.0.0 or later)
 
 ### Installation
 
 1. Clone the repository:
+
    ```
-   git clone https://github.com/yourusername/news-tracker-app.git
+   git clone https://github.com/ghsaboias/news-tracker-app.git
    ```
 
 2. Navigate to the project directory:
+
    ```
    cd news-tracker-app
    ```
